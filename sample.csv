@@ -1,0 +1,161 @@
+date,description,amount,currency-code,category-name,budget-name,opposing-name,account-name,note
+2026-09-01,September Rent,-800.0,USD,Rent,Essentials,Campus Housing,Checking Account,Monthly rent payment
+2026-09-01,Paycheck,950.0,USD,Income,,University Job,Checking Account,Part-time job
+2026-09-01,Morning coffee,-5.21,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-01,Morning coffee,-3.23,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-01,Drinks with friends,-15.95,USD,Entertainment,Fun Money,Campus Bar,Checking Account,Fun out
+2026-09-01,Late night food,-23.78,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Meal out
+2026-09-01,Morning coffee,-6.72,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-02,Late night food,-23.46,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Meal out
+2026-09-02,Morning coffee,-6.02,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-02,Ride to event,-15.43,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-02,Textbooks,-145.5,USD,Books,Essentials,University Bookstore,Checking Account,Fall semester books
+2026-09-02,Morning coffee,-5.95,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-03,Study coffee,-4.55,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-03,Electric Bill,-48.25,USD,Utilities,Essentials,City Power,Checking Account,Split with roommate
+2026-09-03,Ride to event,-7.55,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-03,Morning coffee,-6.59,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-03,Late night food,-15.45,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Meal out
+2026-09-04,Study coffee,-5.34,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-04,Morning coffee,-6.69,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-04,Lunch break,-13.26,USD,Dining Out,Monthly Food,Local Diner,Checking Account,Meal out
+2026-09-04,Study coffee,-3.54,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-04,Study coffee,-5.62,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-05,Morning coffee,-3.92,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-05,Morning coffee,-6.61,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-05,Late night food,-24.37,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Meal out
+2026-09-05,Movie ticket,-26.4,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Fun out
+2026-09-06,Study coffee,-4.99,USD,Coffee,Fun Money,Campus Cafe,Checking Account,
+2026-09-06,Pizza slice,-23.23,USD,Dining Out,Monthly Food,Pizza Hut,Checking Account,Meal out
+2026-09-06,Groceries & toiletries,-67.4,USD,Groceries,Monthly Food,Target,Checking Account,Grocery run
+2026-09-06,Movie ticket,-31.02,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Fun out
+2026-09-07,Iced coffee,-3.75,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-07,Study coffee,-5.64,USD,Coffee,Fun Money,Campus Cafe,Checking Account,
+2026-09-07,Study coffee,-5.36,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-08,Morning coffee,-5.93,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-08,Bowling night,-41.29,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Fun out
+2026-09-08,Internet Bill,-35.0,USD,Utilities,Essentials,Comcast,Checking Account,Monthly internet
+2026-09-08,Morning coffee,-3.44,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-08,Ride to event,-12.42,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-09,Iced coffee,-6.0,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-09,Morning coffee,-5.9,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-09,Morning coffee,-5.22,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-09,Morning coffee,-5.36,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-09,Ride home,-9.95,USD,Transportation,Transport,Uber,Checking Account,Travel
+2026-09-09,Morning coffee,-3.33,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-09,Study coffee,-4.92,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-10,Gym Membership,-25.0,USD,Fitness,Essentials,Campus Rec,Checking Account,Monthly gym fee
+2026-09-10,Movie ticket,-40.83,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Fun out
+2026-09-10,Iced coffee,-3.38,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-10,Iced coffee,-3.93,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-10,Pizza slice,-15.51,USD,Dining Out,Monthly Food,Pizza Hut,Checking Account,Meal out
+2026-09-10,Iced coffee,-5.79,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-11,Ride to event,-21.54,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-11,Burrito bowl,-18.16,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Meal out
+2026-09-11,Morning coffee,-6.88,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-11,Morning coffee,-4.91,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-11,Study coffee,-5.41,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-11,Study coffee,-4.82,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-12,Iced coffee,-4.84,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-12,Spotify,-5.99,USD,Subscriptions,Fun Money,Spotify,Checking Account,Student discount
+2026-09-12,Drinks with friends,-15.1,USD,Entertainment,Fun Money,Campus Bar,Checking Account,Fun out
+2026-09-12,Study coffee,-3.21,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-12,Snacks and essentials,-73.43,USD,Groceries,Monthly Food,Kroger,Checking Account,Grocery run
+2026-09-12,Ride to event,-12.96,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-13,Iced coffee,-5.94,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-13,Bowling night,-42.38,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Fun out
+2026-09-14,Study coffee,-3.13,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-14,Iced coffee,-5.82,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-14,Study coffee,-5.19,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-14,Tacos,-21.74,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Meal out
+2026-09-14,Study coffee,-4.21,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-15,Burrito bowl,-21.58,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Meal out
+2026-09-15,Paycheck,950.0,USD,Income,,University Job,Checking Account,Part-time job
+2026-09-15,Ride to event,-20.06,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-15,Study coffee,-5.03,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-15,Netflix,-15.49,USD,Subscriptions,Fun Money,Netflix,Checking Account,Standard plan
+2026-09-16,Morning coffee,-5.22,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-16,Burrito bowl,-13.37,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Meal out
+2026-09-16,Bus fare,-18.25,USD,Transportation,Transport,City Transit,Checking Account,Travel
+2026-09-16,Drinks with friends,-43.41,USD,Entertainment,Fun Money,Campus Bar,Checking Account,Fun out
+2026-09-17,Study coffee,-5.38,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-17,Study coffee,-3.75,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-17,Morning coffee,-4.16,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-17,Late night food,-26.86,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Meal out
+2026-09-17,Iced coffee,-7.12,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-18,Weekly groceries,-46.23,USD,Groceries,Monthly Food,Trader Joes,Checking Account,Grocery run
+2026-09-18,Bus fare,-14.86,USD,Transportation,Transport,City Transit,Checking Account,Travel
+2026-09-18,Tacos,-19.22,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Meal out
+2026-09-18,Morning coffee,-5.5,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-18,Morning coffee,-3.91,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-18,Iced coffee,-6.45,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-18,Iced coffee,-4.28,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-18,Study coffee,-5.82,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-19,Bowling night,-32.29,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Fun out
+2026-09-19,Bus fare,-8.12,USD,Transportation,Transport,City Transit,Checking Account,Travel
+2026-09-19,Burrito bowl,-25.75,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Meal out
+2026-09-19,Weekly groceries,-48.92,USD,Groceries,Monthly Food,Trader Joes,Checking Account,Grocery run
+2026-09-19,Iced coffee,-3.44,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-19,Morning coffee,-3.76,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-19,Iced coffee,-6.39,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-20,Burrito bowl,-22.54,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Meal out
+2026-09-20,Study coffee,-6.92,USD,Coffee,Fun Money,Campus Cafe,Checking Account,
+2026-09-20,Bus fare,-6.87,USD,Transportation,Transport,City Transit,Checking Account,Travel
+2026-09-20,Iced coffee,-3.9,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-20,Bowling night,-44.52,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Fun out
+2026-09-20,Iced coffee,-3.97,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-20,Morning coffee,-4.37,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-21,Study coffee,-6.68,USD,Coffee,Fun Money,Campus Cafe,Checking Account,
+2026-09-21,Iced coffee,-4.01,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-21,Weekly groceries,-44.51,USD,Groceries,Monthly Food,Trader Joes,Checking Account,Grocery run
+2026-09-21,Ride to event,-8.94,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-22,Iced coffee,-5.56,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-22,Morning coffee,-4.2,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-22,Tacos,-13.57,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Meal out
+2026-09-22,Movie ticket,-42.79,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Fun out
+2026-09-22,Study coffee,-4.87,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-22,Iced coffee,-5.71,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-22,Morning coffee,-5.16,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-23,Movie ticket,-44.56,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Fun out
+2026-09-23,Lunch break,-19.7,USD,Dining Out,Monthly Food,Local Diner,Checking Account,Meal out
+2026-09-23,Study coffee,-3.01,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-24,Study coffee,-5.36,USD,Coffee,Fun Money,Campus Cafe,Checking Account,
+2026-09-24,Morning coffee,-5.78,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-24,Iced coffee,-5.01,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-24,Groceries & toiletries,-84.77,USD,Groceries,Monthly Food,Target,Checking Account,Grocery run
+2026-09-25,Study coffee,-5.15,USD,Coffee,Fun Money,Campus Cafe,Checking Account,
+2026-09-25,Tacos,-12.98,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Meal out
+2026-09-25,Ride to event,-14.05,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-26,Iced coffee,-3.51,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-26,Iced coffee,-4.74,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-26,Morning coffee,-5.64,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-26,Tacos,-13.09,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Meal out
+2026-09-26,Bus fare,-9.94,USD,Transportation,Transport,City Transit,Checking Account,Travel
+2026-09-26,Bowling night,-16.19,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Fun out
+2026-09-27,Study coffee,-4.05,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-27,Morning coffee,-5.02,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-27,Iced coffee,-6.25,USD,Coffee,Fun Money,Dunkin,Checking Account,
+2026-09-27,Pizza slice,-15.27,USD,Dining Out,Monthly Food,Pizza Hut,Checking Account,Meal out
+2026-09-27,Ride to event,-8.09,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-27,Bowling night,-24.0,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Fun out
+2026-09-27,Morning coffee,-3.67,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-28,Transfer to Savings,-150.0,USD,Transfer,Savings,My Savings,Checking Account,Monthly savings
+2026-09-28,Transfer to Savings,150.0,USD,Transfer,Savings,Checking Account,Savings Account,Monthly savings
+2026-09-28,Morning coffee,-4.53,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-28,Tacos,-27.94,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Meal out
+2026-09-28,Weekly groceries,-60.29,USD,Groceries,Monthly Food,Trader Joes,Checking Account,Grocery run
+2026-09-28,Ride to event,-20.09,USD,Transportation,Transport,Lyft,Checking Account,Travel
+2026-09-28,Iced coffee,-5.43,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-28,Study coffee,-3.67,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-29,Pizza slice,-21.79,USD,Dining Out,Monthly Food,Pizza Hut,Checking Account,Meal out
+2026-09-29,Bowling night,-23.98,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Fun out
+2026-09-29,Iced coffee,-5.71,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-29,Morning coffee,-5.7,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-29,Study coffee,-5.92,USD,Coffee,Fun Money,Campus Cafe,Checking Account,Extra coffee
+2026-09-29,Morning coffee,-5.81,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-29,Iced coffee,-4.73,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
+2026-09-30,Morning coffee,-5.29,USD,Coffee,Fun Money,Starbucks,Checking Account,
+2026-09-30,Groceries & toiletries,-62.66,USD,Groceries,Monthly Food,Target,Checking Account,Grocery run
+2026-09-30,Bus fare,-9.37,USD,Transportation,Transport,City Transit,Checking Account,Travel
+2026-09-30,Morning coffee,-3.28,USD,Coffee,Fun Money,Starbucks,Checking Account,Extra coffee
+2026-09-30,Iced coffee,-5.06,USD,Coffee,Fun Money,Dunkin,Checking Account,Extra coffee
