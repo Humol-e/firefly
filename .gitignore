@@ -13,7 +13,9 @@ venv/
 .venv/
 *.log
 
+#tests
 test.py
+test2.py
 # OS
 .DS_Store
 Thumbs.db
