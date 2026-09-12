@@ -1,0 +1,159 @@
+date,description,amount,currency-code,category-name,budget-name,opposing-name,account-name,note
+2026-09-01,Monthly Allowance,1500.0,USD,Income,,Parents,Checking Account,Allowance for Sept
+2026-09-01,Ride / Transit,-9.83,USD,Transportation,Transport,Lime Scooter,Checking Account,Going to class/event
+2026-09-01,Lunch / Dinner,-11.07,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Quick meal
+2026-09-01,Morning Coffee,-4.54,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-01,Morning Coffee,-5.14,USD,Coffee,Monthly Food,Peets Coffee,Checking Account,Needed caffeine
+2026-09-01,Snack,-3.85,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-01,September Rent,-750.0,USD,Rent,Essentials,Campus Housing,Checking Account,Split with roommate
+2026-09-02,Gym Membership,-29.99,USD,Fitness,Essentials,Planet Fitness,Checking Account,Monthly fee
+2026-09-02,Snack,-1.72,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-02,Fun / Going out,-24.2,USD,Entertainment,Fun Money,Concert Venue,Checking Account,Hanging out
+2026-09-02,Ride / Transit,-9.28,USD,Transportation,Transport,Lime Scooter,Checking Account,Going to class/event
+2026-09-02,Ride / Transit,-5.7,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-02,Morning Coffee,-5.77,USD,Coffee,Monthly Food,Dunkin,Checking Account,Needed caffeine
+2026-09-02,Morning Coffee,-4.6,USD,Coffee,Monthly Food,Peets Coffee,Checking Account,Needed caffeine
+2026-09-02,Lunch / Dinner,-16.58,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Quick meal
+2026-09-03,Fall Semester Textbooks,-145.5,USD,Books,Essentials,University Bookstore,Checking Account,Bio and History books
+2026-09-03,Morning Coffee,-5.21,USD,Coffee,Monthly Food,Dunkin,Checking Account,Needed caffeine
+2026-09-03,Morning Coffee,-5.67,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-03,Lunch / Dinner,-11.63,USD,Dining Out,Monthly Food,Local Diner,Checking Account,Quick meal
+2026-09-03,Fun / Going out,-23.5,USD,Entertainment,Fun Money,Concert Venue,Checking Account,Hanging out
+2026-09-03,Snack,-1.63,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-04,Lunch / Dinner,-15.98,USD,Dining Out,Monthly Food,Pizza Hut,Checking Account,Quick meal
+2026-09-04,Ride / Transit,-11.55,USD,Transportation,Transport,Lyft,Checking Account,Going to class/event
+2026-09-04,Fun / Going out,-10.35,USD,Entertainment,Fun Money,Steam Games,Checking Account,Hanging out
+2026-09-04,Snack,-2.55,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-04,Morning Coffee,-4.65,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-04,Ride / Transit,-11.4,USD,Transportation,Transport,Lyft,Checking Account,Going to class/event
+2026-09-05,Groceries,-60.94,USD,Groceries,Monthly Food,Walmart,Checking Account,Weekly restock
+2026-09-05,Morning Coffee,-4.93,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-05,Morning Coffee,-5.9,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-05,Snack,-2.86,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-05,Lunch / Dinner,-13.05,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-05,Electric & Internet,-65.2,USD,Utilities,Essentials,City Utilities,Checking Account,Monthly bill
+2026-09-06,Morning Coffee,-5.06,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-06,Lunch / Dinner,-17.38,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-06,Ride / Transit,-10.91,USD,Transportation,Transport,Lime Scooter,Checking Account,Going to class/event
+2026-09-06,Ride / Transit,-10.23,USD,Transportation,Transport,Lyft,Checking Account,Going to class/event
+2026-09-06,Snack,-1.74,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-07,Snack,-2.75,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-07,Fun / Going out,-22.34,USD,Entertainment,Fun Money,Bowling Alley,Checking Account,Hanging out
+2026-09-07,Morning Coffee,-4.89,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-07,Lunch / Dinner,-13.28,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-07,Ride / Transit,-6.55,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-07,Ride / Transit,-10.38,USD,Transportation,Transport,City Transit,Checking Account,Going to class/event
+2026-09-08,Snack,-3.7,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-08,Fun / Going out,-22.21,USD,Entertainment,Fun Money,Concert Venue,Checking Account,Hanging out
+2026-09-08,Lunch / Dinner,-12.7,USD,Dining Out,Monthly Food,Pizza Hut,Checking Account,Quick meal
+2026-09-08,Morning Coffee,-5.76,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-08,Ride / Transit,-6.69,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-09,Lunch / Dinner,-12.49,USD,Dining Out,Monthly Food,Panda Express,Checking Account,Quick meal
+2026-09-09,Morning Coffee,-6.16,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-09,Morning Coffee,-6.31,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-09,Snack,-3.69,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-10,Ride / Transit,-4.56,USD,Transportation,Transport,City Transit,Checking Account,Going to class/event
+2026-09-10,Groceries,-75.3,USD,Groceries,Monthly Food,Whole Foods,Checking Account,Weekly restock
+2026-09-10,Spotify Student,-5.99,USD,Subscriptions,Fun Money,Spotify,Checking Account,Music
+2026-09-10,Lunch / Dinner,-16.01,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Quick meal
+2026-09-10,Morning Coffee,-5.15,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-10,Morning Coffee,-4.66,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-11,Morning Coffee,-5.6,USD,Coffee,Monthly Food,Dunkin,Checking Account,Needed caffeine
+2026-09-11,Morning Coffee,-5.29,USD,Coffee,Monthly Food,Dunkin,Checking Account,Needed caffeine
+2026-09-11,Ride / Transit,-5.28,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-11,Snack,-3.29,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-11,Ride / Transit,-9.43,USD,Transportation,Transport,Lime Scooter,Checking Account,Going to class/event
+2026-09-11,Lunch / Dinner,-13.27,USD,Dining Out,Monthly Food,Panda Express,Checking Account,Quick meal
+2026-09-12,Lunch / Dinner,-12.76,USD,Dining Out,Monthly Food,Panda Express,Checking Account,Quick meal
+2026-09-12,Morning Coffee,-5.14,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-12,Snack,-3.47,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-12,Ride / Transit,-9.55,USD,Transportation,Transport,Lyft,Checking Account,Going to class/event
+2026-09-12,Netflix,-15.49,USD,Subscriptions,Fun Money,Netflix,Checking Account,Shared account
+2026-09-13,Fun / Going out,-13.04,USD,Entertainment,Fun Money,Concert Venue,Checking Account,Hanging out
+2026-09-13,Lunch / Dinner,-15.25,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Quick meal
+2026-09-13,Morning Coffee,-5.97,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-13,Morning Coffee,-5.22,USD,Coffee,Monthly Food,Dunkin,Checking Account,Needed caffeine
+2026-09-13,Snack,-3.18,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-14,Morning Coffee,-5.53,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-14,Lunch / Dinner,-17.46,USD,Dining Out,Monthly Food,Taco Bell,Checking Account,Quick meal
+2026-09-14,Ride / Transit,-10.81,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-14,Ride / Transit,-7.74,USD,Transportation,Transport,Lime Scooter,Checking Account,Going to class/event
+2026-09-14,Snack,-3.58,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-15,Morning Coffee,-4.6,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-15,Part-time Job,900.0,USD,Income,,Campus IT Desk,Checking Account,Bi-weekly paycheck
+2026-09-15,Snack,-2.94,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-15,Morning Coffee,-7.0,USD,Coffee,Monthly Food,Dunkin,Checking Account,Needed caffeine
+2026-09-15,Lunch / Dinner,-10.6,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Quick meal
+2026-09-15,Groceries,-78.45,USD,Groceries,Monthly Food,Whole Foods,Checking Account,Weekly restock
+2026-09-15,Ride / Transit,-6.95,USD,Transportation,Transport,Lime Scooter,Checking Account,Going to class/event
+2026-09-16,Lunch / Dinner,-13.19,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-16,Morning Coffee,-6.27,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-16,Monthly Savings Transfer,-150.0,USD,Transfer,Savings,Savings Account,Checking Account,Saving for spring break
+2026-09-16,Monthly Savings Transfer,150.0,USD,Transfer,Savings,Checking Account,Savings Account,Saving for spring break
+2026-09-16,Ride / Transit,-7.69,USD,Transportation,Transport,Lyft,Checking Account,Going to class/event
+2026-09-17,Ride / Transit,-8.58,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-17,Ride / Transit,-7.06,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-17,Lunch / Dinner,-12.19,USD,Dining Out,Monthly Food,Local Diner,Checking Account,Quick meal
+2026-09-17,Morning Coffee,-5.25,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-17,Morning Coffee,-5.08,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-18,Morning Coffee,-6.99,USD,Coffee,Monthly Food,Peets Coffee,Checking Account,Needed caffeine
+2026-09-18,Lunch / Dinner,-10.12,USD,Dining Out,Monthly Food,Taco Bell,Checking Account,Quick meal
+2026-09-18,Ride / Transit,-4.58,USD,Transportation,Transport,Uber,Checking Account,Going to class/event
+2026-09-18,Fun / Going out,-18.0,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Hanging out
+2026-09-18,Snack,-2.53,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-19,Ride / Transit,-8.09,USD,Transportation,Transport,Lime Scooter,Checking Account,Going to class/event
+2026-09-19,Snack,-2.6,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-19,Morning Coffee,-4.41,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-19,Lunch / Dinner,-13.18,USD,Dining Out,Monthly Food,Chipotle,Checking Account,Quick meal
+2026-09-20,Groceries,-54.61,USD,Groceries,Monthly Food,Target,Checking Account,Weekly restock
+2026-09-20,Morning Coffee,-4.69,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-20,Morning Coffee,-4.35,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-20,Lunch / Dinner,-12.18,USD,Dining Out,Monthly Food,Panda Express,Checking Account,Quick meal
+2026-09-20,Snack,-2.38,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-21,Lunch / Dinner,-15.8,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Quick meal
+2026-09-21,Fun / Going out,-11.3,USD,Entertainment,Fun Money,Concert Venue,Checking Account,Hanging out
+2026-09-21,Morning Coffee,-6.23,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-21,Snack,-1.92,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-22,Lunch / Dinner,-11.29,USD,Dining Out,Monthly Food,Food Truck,Checking Account,Quick meal
+2026-09-22,Morning Coffee,-5.84,USD,Coffee,Monthly Food,Peets Coffee,Checking Account,Needed caffeine
+2026-09-23,Morning Coffee,-4.56,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-23,Morning Coffee,-6.22,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-23,Lunch / Dinner,-13.97,USD,Dining Out,Monthly Food,Local Diner,Checking Account,Quick meal
+2026-09-23,Ride / Transit,-11.44,USD,Transportation,Transport,Lyft,Checking Account,Going to class/event
+2026-09-23,Ride / Transit,-7.01,USD,Transportation,Transport,Uber,Checking Account,Going to class/event
+2026-09-24,Lunch / Dinner,-17.01,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-24,Morning Coffee,-6.2,USD,Coffee,Monthly Food,Peets Coffee,Checking Account,Needed caffeine
+2026-09-24,Morning Coffee,-6.62,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-24,Snack,-2.28,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-25,Snack,-1.91,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-25,Morning Coffee,-5.75,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-25,Lunch / Dinner,-12.41,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-25,Groceries,-45.31,USD,Groceries,Monthly Food,Trader Joes,Checking Account,Weekly restock
+2026-09-25,Ride / Transit,-10.48,USD,Transportation,Transport,City Transit,Checking Account,Going to class/event
+2026-09-25,Fun / Going out,-17.39,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Hanging out
+2026-09-26,Ride / Transit,-9.55,USD,Transportation,Transport,Uber,Checking Account,Going to class/event
+2026-09-26,Ride / Transit,-5.81,USD,Transportation,Transport,Lyft,Checking Account,Going to class/event
+2026-09-26,Lunch / Dinner,-13.01,USD,Dining Out,Monthly Food,Taco Bell,Checking Account,Quick meal
+2026-09-26,Morning Coffee,-6.54,USD,Coffee,Monthly Food,Dunkin,Checking Account,Needed caffeine
+2026-09-26,Morning Coffee,-6.42,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-27,Morning Coffee,-5.26,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-27,Morning Coffee,-4.52,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-27,Lunch / Dinner,-17.93,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-27,Snack,-2.92,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-28,Lunch / Dinner,-17.2,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-28,Morning Coffee,-4.01,USD,Coffee,Monthly Food,Starbucks,Checking Account,Needed caffeine
+2026-09-28,Morning Coffee,-6.51,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-28,Ride / Transit,-6.4,USD,Transportation,Transport,City Transit,Checking Account,Going to class/event
+2026-09-28,Ride / Transit,-5.47,USD,Transportation,Transport,Campus Bus,Checking Account,Going to class/event
+2026-09-28,Fun / Going out,-23.99,USD,Entertainment,Fun Money,AMC Theaters,Checking Account,Hanging out
+2026-09-28,Snack,-3.84,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-29,Lunch / Dinner,-11.06,USD,Dining Out,Monthly Food,Local Diner,Checking Account,Quick meal
+2026-09-29,Morning Coffee,-4.7,USD,Coffee,Monthly Food,Local Roasters,Checking Account,Needed caffeine
+2026-09-29,Fun / Going out,-12.4,USD,Entertainment,Fun Money,Concert Venue,Checking Account,Hanging out
+2026-09-29,Morning Coffee,-4.22,USD,Coffee,Monthly Food,Peets Coffee,Checking Account,Needed caffeine
+2026-09-29,Snack,-3.29,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
+2026-09-30,Lunch / Dinner,-17.25,USD,Dining Out,Monthly Food,McDonalds,Checking Account,Quick meal
+2026-09-30,Part-time Job,900.0,USD,Income,,Campus IT Desk,Checking Account,Bi-weekly paycheck
+2026-09-30,Groceries,-45.38,USD,Groceries,Monthly Food,Walmart,Checking Account,Weekly restock
+2026-09-30,Morning Coffee,-5.31,USD,Coffee,Monthly Food,Campus Cafe,Checking Account,Needed caffeine
+2026-09-30,Snack,-3.13,USD,Groceries,Monthly Food,Campus Vending,Checking Account,Study snack
