@@ -16,6 +16,7 @@ venv/
 #tests
 test.py
 test2.py
+test3.py
 # OS
 .DS_Store
 Thumbs.db
