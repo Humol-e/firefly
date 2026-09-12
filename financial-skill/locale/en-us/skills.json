@@ -1,0 +1,11 @@
+{
+  "skill_id": "hako-skill-financial.openvoiceos",
+  "source": "https://github.com/humol-e/firefly",
+  "name": "Hako Financial Assistant",
+  "description": "Voice assistant for personal finance using Firefly III.",
+  "examples": [
+    "What is my balance?",
+    "How much did I spend this month?"
+  ],
+  "tags": ["finance", "firefly", "budget"]
+}

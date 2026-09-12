@@ -1,0 +1,2 @@
+You spent {{ total }} dollars this month.
+Your total spending this month is {{ total }} dollars.

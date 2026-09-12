@@ -1,0 +1,2 @@
+Your total balance is {{ total }} dollars.
+You currently have {{ total }} dollars across your accounts.
