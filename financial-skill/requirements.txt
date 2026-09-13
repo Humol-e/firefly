@@ -1,2 +1,4 @@
 requests
 ovos-workshop
+google-genai
+elevenlabs
